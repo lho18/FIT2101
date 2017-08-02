@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-print('Hello Gloria')
-=======
 print('Hello, world')
->>>>>>> refs/remotes/origin/master
+
